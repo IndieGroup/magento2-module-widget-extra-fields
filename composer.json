@@ -12,8 +12,6 @@
     "upload"
   ],
   "require": {
-    "php": "^7.0|~7.1|^7.2",
-    "magento/framework": "^100.0|^101.0|^102.0"
   },
   "type": "magento2-module",
   "license": [
